@@ -1,0 +1,17 @@
+{
+  "name": "fatemeh-akbari-hw15-m88",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "node": "^19.6.1"
+  }
+}
